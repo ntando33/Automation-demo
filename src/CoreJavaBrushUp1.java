@@ -24,8 +24,8 @@ public class CoreJavaBrushUp1 {
 		
 		// Core Java Brush Up3
 		
-		String s = "Rahul Shetty Academy";
-		String[] splittedString = s.split("Shetty");
+		String s = "Ntandoyenkosi Test";
+		String[] splittedString = s.split("Mkhwanazi");
 		System.out.println(splittedString[0]);
 		System.out.println(splittedString[1]);
 		System.out.println(splittedString[1].trim());
